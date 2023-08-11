@@ -17,8 +17,7 @@ I'm a passionate software developer currently pursuing my B.Tech in IT at CEG, A
 
 ## Projects
 
-- [Project Name](Project URL) - Brief description of the project.
-- [Project Name](Project URL) - Brief description of the project.
+- Chat Application 
 
 ## Competitive Programming Profiles
 
