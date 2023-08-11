@@ -4,16 +4,16 @@ I'm a passionate software developer currently pursuing my B.Tech in IT at CEG, A
 
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Data Structures, Algorithms, Front-end and Back-end development
-- 📫 How to reach me: [yuvarajv787@gmail.com]
+- 📫 How to reach me: yuvarajv787@gmail.com
 - 😄 Pronouns: He/Him
 
 ## Tech Stack
 
-- Programming Languages: [C/C++, Python, Javascript]
-- Front-end: [HTML, CSS, JS, React]
-- Back-end: [Node.js, Express.js]
-- Databases: [PostgreSQL]
-- Tools: [VS Code, GitHub, Postman]
+- Programming Languages: C/C++, Python, Javascript
+- Front-end: HTML, CSS, JS, React
+- Back-end: Node.js, Express.js
+- Databases: PostgreSQL
+- Tools: VS Code, GitHub, Postman
 
 ## Projects
 
